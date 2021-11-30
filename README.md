@@ -4,7 +4,7 @@
 <img width=”200" height=”200" src="https://user-images.githubusercontent.com/59421381/144049548-2c28d869-9344-41d9-aad7-ab45ba3bb69a.png" alt="my banner">
 </p>
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/tanushree-nepal/"><img align="left" src="https://raw.githubusercontent.com/Tanushree28/Tanushree28/master/images/linkedin.png" alt="Tanushree Nepal | LinkedIn" width="21px"/></a>
 
 <a href="https://twitter.com/NepalTanushree"><img align="left" src="https://raw.githubusercontent.com/Tanushree28/Tanushree28/master/images/twitter.png" alt="Tanushree Nepal | Twitter" width="21px"/></a>
@@ -35,7 +35,7 @@
 
 ![NVIDIA-GTX1650-76B900](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-🎶 Sound
+## 🎶 Sound
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)                                                                         ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)  
 
