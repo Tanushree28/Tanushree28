@@ -28,7 +28,19 @@
 
 🎶 Sound
 
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)                                                                         ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)                                                             
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)                                                                         ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)  
+
+
+## 📈 GitHub Stats 
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Tanushree28)](https://github.com/Tanushree28)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanushree28&layout=compact)](https://github.com/Tanushree28)
+
+![Visitors](https://badgen.net/github/watchers/Tanushree28/Tanushree28)
+![License](https://badgen.net/github/license/Tanushree28/Tanushree28)
+![Forks](https://badgen.net/github/forks/Tanushree28/Tanushree28)
+![Stars](https://badgen.net/github/stars/Tanushree28/Tanushree28)
                                                                                                                                          
                                                                                                                                          
 <!--
