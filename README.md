@@ -41,12 +41,12 @@
 
 ## 📝 Blog
 
-1. ![Simple App using Python: Hangman Game](https://www.datainsightonline.com/post/simple-app-using-python-convert-temperature-in-fahrenheit-to-celsius-1)
-2. [![Simple App using Python: Convert Temperature in Fahrenheit to Celsius](https://www.datainsightonline.com/post/simple-app-using-python-hangman-game)
-3. ![Python Concepts for Data Science: Python Functions](https://www.datainsightonline.com/post/python-concepts-for-data-science-functions)
-4. ![Python Concepts for Data Science: Tuples in Python](https://www.datainsightonline.com/post/python-concepts-for-data-science-tuples)
-5. ![Pandas Techniques For Data Manipulation](https://www.datainsightonline.com/post/pandas-techniques-for-data-manipulation-1)
-6. ![Project: Investigating Guest Stars in The Office (American TV Series )](https://www.datainsightonline.com/post/project-investigating-guest-stars-in-the-office-american-tv-series)
+- [Simple App using Python: Hangman Game](https://www.datainsightonline.com/post/simple-app-using-python-hangman-game)
+- [Simple App using Python: Convert Temperature in Fahrenheit to Celsius](https://www.datainsightonline.com/post/simple-app-using-python-convert-temperature-in-fahrenheit-to-celsius-1)
+- [Python Concepts for Data Science: Python Functions](https://www.datainsightonline.com/post/python-concepts-for-data-science-functions)
+- [Python Concepts for Data Science: Tuples in Python](https://www.datainsightonline.com/post/python-concepts-for-data-science-tuples)
+- [Pandas Techniques For Data Manipulation](https://www.datainsightonline.com/post/pandas-techniques-for-data-manipulation-1)
+- [Project: Investigating Guest Stars in The Office (American TV Series )](https://www.datainsightonline.com/post/project-investigating-guest-stars-in-the-office-american-tv-series)
 
 
 ## 📈 GitHub Stats 
