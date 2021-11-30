@@ -55,7 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanushree28&layout=compact)](https://github.com/Tanushree28)
 
-![Visitors](https://badgen.net/github/watchers/Tanushree28/Tanushree28)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Tanushree28.Tanushree28)](https://github.com/Tanushree28)
 ![License](https://badgen.net/github/license/Tanushree28/Tanushree28)
 ![Forks](https://badgen.net/github/forks/Tanushree28/Tanushree28)
 ![Stars](https://badgen.net/github/stars/Tanushree28/Tanushree28)
