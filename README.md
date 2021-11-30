@@ -16,7 +16,7 @@
 - My old projects
 - Cyberbullying Detection System(Python, SVM, Django)
 - My next blog
-- Nwe version of my Portfolio
+- New version of my Portfolio
 
 ## 🌱 I'm currently learning
 
