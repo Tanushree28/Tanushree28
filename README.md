@@ -4,6 +4,13 @@
 <img width=”200" height=”200" src="https://user-images.githubusercontent.com/59421381/144049548-2c28d869-9344-41d9-aad7-ab45ba3bb69a.png" alt="my banner">
 </p>
 
+### 🤝 Connect with me:
+
+
+
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 ## 💼 Technical Skills
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
