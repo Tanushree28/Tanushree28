@@ -6,12 +6,23 @@
 
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/tanushree-nepal/"><img align="left" src="https://raw.githubusercontent.com/Tanushree28/Tanushree28/master/images/linkedin.png" alt="Tanushree Nepal | LinkedIn" width="21px"/></a>
-
 <a href="https://twitter.com/NepalTanushree"><img align="left" src="https://raw.githubusercontent.com/Tanushree28/Tanushree28/master/images/twitter.png" alt="Tanushree Nepal | Twitter" width="21px"/></a>
-
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- My old projects
+- Cyberbullying Detection System(Python, SVM, Django)
+- My next blog
+- Nwe version of my Portfolio
+
+## 🌱 I'm currently learning
+
+- Cleaning, Importing and Writing Efficent Code in Python(Leanrning from DataCamp)
+- Learning different Digital Forensics tools(Autopsy, COFEE) 
+- Learning basics of Computer Networking (such as TCP/IP, IPv4 and IPv6, Ports, Internet and Intranet)
 
 ## 💼 Technical Skills
 
