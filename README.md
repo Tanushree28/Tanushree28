@@ -58,6 +58,7 @@
 - [Python Concepts for Data Science: Tuples in Python](https://www.datainsightonline.com/post/python-concepts-for-data-science-tuples)
 - [Pandas Techniques For Data Manipulation](https://www.datainsightonline.com/post/pandas-techniques-for-data-manipulation-1)
 - [Project: Investigating Guest Stars in The Office (American TV Series )](https://www.datainsightonline.com/post/project-investigating-guest-stars-in-the-office-american-tv-series)
+- [Exploratory Data Analysis: Importing, Cleaning, and Visualization of Titanic Dataset)](https://www.datainsightonline.com/post/exploratory-data-analysis-importing-cleaning-and-visualization-of-titanic-dataset)
 
 
 ## 📈 GitHub Stats 
