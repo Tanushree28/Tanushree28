@@ -16,8 +16,7 @@
 - **Trading Algorithm & Strategy** (Quantitative Finance + Data Science)  
   - Data-driven trading strategies with Python  
   - Time series forecasting, backtesting, and risk modeling  
-  - ML-based predictive models (Scikit-learn, XGBoost, TensorFlow)  
-- **Cyberbullying Detection System** (Python, SVM, Django)  
+  - ML-based predictive models (Scikit-learn, XGBoost, TensorFlow)   
 
 ---
 
