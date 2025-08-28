@@ -76,7 +76,9 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Tanushree28&style=for-the-badge&color=blue)
 
-![License](https://img.shields.io/github/license/Tanushree28/Tanushree28?style=for-the-badge&color=blue)  
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
 ![Forks](https://img.shields.io/github/forks/Tanushree28/Tanushree28?style=for-the-badge&color=blue)  
+
 ![Stars](https://img.shields.io/github/stars/Tanushree28/Tanushree28?style=for-the-badge&color=blue)  
 
