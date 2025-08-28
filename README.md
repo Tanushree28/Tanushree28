@@ -1,8 +1,8 @@
 ### Hi there, I'm Tanushree 👋
 
-<p align=”center”>
-<img width=”200" height=”200" src="https://user-images.githubusercontent.com/59421381/144049548-2c28d869-9344-41d9-aad7-ab45ba3bb69a.png" alt="my banner">
-</p>
+## <p align=”center”>
+## <img width=”200" height=”200" src="https://user-images.githubusercontent.com/59421381/144049548-2c28d869-9344-41d9-aad7-ab45ba3bb69a.png" alt="my banner">
+## </p>
 
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/tanushree-nepal/"><img align="left" src="https://raw.githubusercontent.com/Tanushree28/Tanushree28/master/images/linkedin.png" alt="Tanushree Nepal | LinkedIn" width="21px"/></a>
