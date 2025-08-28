@@ -7,6 +7,7 @@
 -->
 
 ## 🤝 Connect with me:
+
 <a href="https://www.linkedin.com/in/tanushree-nepal/"><img align="left" src="https://raw.githubusercontent.com/Tanushree28/Tanushree28/master/images/linkedin.png" alt="Tanushree Nepal | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/NepalTanushree"><img align="left" src="https://raw.githubusercontent.com/Tanushree28/Tanushree28/master/images/twitter.png" alt="Tanushree Nepal | Twitter" width="21px"/></a>
 
