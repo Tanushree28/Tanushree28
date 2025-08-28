@@ -75,10 +75,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanushree28&layout=compact&theme=radical)](https://github.com/Tanushree28)  
 
 ![Visitors](https://komarev.com/ghpvc/?username=Tanushree28&style=for-the-badge&color=blue)
-
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
 ![Forks](https://img.shields.io/github/forks/Tanushree28/Tanushree28?style=for-the-badge&color=blue)  
-
 ![Stars](https://img.shields.io/github/stars/Tanushree28/Tanushree28?style=for-the-badge&color=blue)  
 
