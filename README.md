@@ -74,7 +74,9 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Tanushree28&show_icons=true&theme=radical)](https://github.com/Tanushree28)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanushree28&layout=compact&theme=radical)](https://github.com/Tanushree28)  
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Tanushree28.Tanushree28)  
-![License](https://badgen.net/github/license/Tanushree28/Tanushree28)  
-![Forks](https://badgen.net/github/forks/Tanushree28/Tanushree28)  
-![Stars](https://badgen.net/github/stars/Tanushree28/Tanushree28)  
+![Visitors](https://komarev.com/ghpvc/?username=Tanushree28&style=for-the-badge&color=blue)
+
+![License](https://img.shields.io/github/license/Tanushree28/Tanushree28?style=for-the-badge&color=blue)  
+![Forks](https://img.shields.io/github/forks/Tanushree28/Tanushree28?style=for-the-badge&color=blue)  
+![Stars](https://img.shields.io/github/stars/Tanushree28/Tanushree28?style=for-the-badge&color=blue)  
+
